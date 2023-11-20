@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "z6/SGqZl/b4i1nillNP3wtdBEr7AklNrYGGgcpp1EwM=",
+  "Source": "signalRDemo",
+  "BasePath": "_content/signalRDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "signalRDemo\\wwwroot",
+      "Source": "signalRDemo",
+      "ContentRoot": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\",
+      "BasePath": "_content/signalRDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\js\\Chat.js",
+      "SourceId": "signalRDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\",
+      "BasePath": "_content/signalRDemo",
+      "RelativePath": "js/Chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\lib\\signalr.js\\signalr.js",
+      "SourceId": "signalRDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\",
+      "BasePath": "_content/signalRDemo",
+      "RelativePath": "lib/signalr.js/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalr.js\\signalr.js"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\lib\\signalr.js\\signalr.min.js",
+      "SourceId": "signalRDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\",
+      "BasePath": "_content/signalRDemo",
+      "RelativePath": "lib/signalr.js/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalr.js\\signalr.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\pages\\index.html",
+      "SourceId": "signalRDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Downloads\\signalRDemo\\signalRDemo\\wwwroot\\",
+      "BasePath": "_content/signalRDemo",
+      "RelativePath": "pages/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\index.html"
+    }
+  ]
+}
